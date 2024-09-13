@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashraj195&label=Profile%20views&color=0e75b6&style=flat" alt="yashraj195" /> </p>
 
-- 🌱 I’m currently learning **DBMS, JAVA**
+- 🌱 I’m currently learning **SQL, Advance Excel**
 
 - 📫 How to reach me **codewithyash2508@gmail.com**
 
