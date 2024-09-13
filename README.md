@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yash Raj</h1>
-<h3 align="center">A passionate Software Engineer</h3>
+<h3 align="center">A passionate aspirant Data Analyst</h3>
 
 <img align= "right" alt= "coding" width="400" src="https://media1.giphy.com/media/2QpnSwLwr9fkDtiN4m/giphy.gif?cid=6c09b9523jxga1f466jacsyctvoff9917r2ldlhsezewyzpj&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g">
 
