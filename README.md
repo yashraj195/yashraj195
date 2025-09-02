@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **SQL, Advance Excel**
 
-- 📫 How to reach me **codewithyash2508@gmail.com**
+- 📫 How to reach me **rajyash.2508@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
