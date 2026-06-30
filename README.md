@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Yash Raj</h1>
-<h3 align="center">A passionate aspirant Data Science Enthusiast</h3>
+<h3 align="center">Aspiring Java Developer and Python Developer</h3>
 
 <img align= "right" alt= "coding" width="400" src="https://media1.giphy.com/media/2QpnSwLwr9fkDtiN4m/giphy.gif?cid=6c09b9523jxga1f466jacsyctvoff9917r2ldlhsezewyzpj&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashraj195&label=Profile%20views&color=0e75b6&style=flat" alt="yashraj195" /> </p>
 
-- 🌱 I’m currently learning **Backend Development and Advance Excel**
+- 🌱 I’m currently learning **Java Full Stack and Spring Framework**
 
 - 📫 How to reach me **rajyash.2508@gmail.com**
 
