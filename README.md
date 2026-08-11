@@ -11,7 +11,7 @@
 - 💼 Building backend systems in **Python** and cloud-native apps on **Microsoft Azure**
 - 🤖 Exploring **Generative AI / LLM applications**
 - 🔍 Open to backend, cloud, and GenAI developer roles
-- 📫 Reach me at **rajyash.2508@gmail.com**
+- 📫 Reach me at **yashraj.gitam@gmail.com**
 
 <br clear="right"/>
 
